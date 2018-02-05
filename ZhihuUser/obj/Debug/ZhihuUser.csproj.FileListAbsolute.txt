@@ -1,0 +1,44 @@
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\bin\Debug\ZhihuUser.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\bin\Debug\ZhihuUser.exe
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\bin\Debug\ZhihuUser.pdb
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\obj\Debug\ZhihuUser.Form1.resources
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\obj\Debug\ZhihuUser.Properties.Resources.resources
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\obj\Debug\ZhihuUser.csproj.GenerateResource.Cache
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\obj\Debug\ZhihuUser.csproj.CoreCompileInputs.cache
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\obj\Debug\ZhihuUser.exe
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\obj\Debug\ZhihuUser.pdb
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\bin\Debug\Newtonsoft.Json.dll
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\bin\Debug\Newtonsoft.Json.pdb
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\bin\Debug\Newtonsoft.Json.xml
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\bin\Debug\MySql.Data.dll
+c:\users\jc\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\bin\Debug\MySql.Data.xml
+C:\Users\JC\documents\visual studio 2017\Projects\ZhihuUser\ZhihuUser\obj\Debug\ZhihuUser.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\bin\Debug\ZhihuUser.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\bin\Debug\ZhihuUser.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\bin\Debug\ZhihuUser.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\bin\Debug\MySql.Data.dll
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\bin\Debug\MySql.Data.xml
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.Form1.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.Properties.Resources.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.csproj.GenerateResource.Cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.csprojResolveAssemblyReference.cache
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\bin\Debug\ZhihuUser.exe.config
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\bin\Debug\ZhihuUser.exe
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\bin\Debug\ZhihuUser.pdb
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\bin\Debug\MySql.Data.dll
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\bin\Debug\MySql.Data.xml
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.csprojResolveAssemblyReference.cache
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.Form1.resources
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.Properties.Resources.resources
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.csproj.GenerateResource.Cache
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.csproj.CoreCompileInputs.cache
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.exe
+C:\Users\JC\Downloads\ZhihuUser0131\ZhihuUser\obj\Debug\ZhihuUser.pdb
